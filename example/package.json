@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+  },
+  "devDependencies": {
+    "cfx.simple-build-tool": "file:.."
+  }
+}
